@@ -1,0 +1,60 @@
+body{
+    background-image: url(images/loginbg.jpg);
+    /* background-repeat: no-repeat; */
+    /* background-attachment: fixed;  
+    background-size: cover; */
+}
+.container{
+    margin: auto;
+    margin-top: 30px;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+    border-radius: 5%;
+    background-color: white;
+    padding-bottom: 50px;
+    display: block;
+}
+
+label{
+    display: inline-block;
+    width: 200px;
+    text-align: left;
+}
+
+.input-box{
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 200px;
+}
+
+h1{
+    text-align: center;
+    border: 10px black;
+}
+
+.random{
+    width: 100px;   
+}
+
+#submit{
+    margin-top: 40px;
+    margin-left: 300px;
+    background-color: #00FF00;
+    border-radius: 20%;
+}
+
+.label-margin{
+    width: 230px;
+}
+
+label.error{
+    margin: auto;
+    text-align: center;
+    font-weight: 700;
+    display: block;
+    color: red;
+    font-size: 13px;
+    margin-bottom: 0px;
+}
+

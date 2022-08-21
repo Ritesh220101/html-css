@@ -1,0 +1,37 @@
+body{
+    background-image: url("images/loginbg.jpg");
+}
+
+div{
+    margin: auto;
+    margin-top: 180px;
+    width: 25%;
+    height: 270px;
+    border: 3px solid black;
+    padding: 10px;
+    border-radius: 5%;    
+    background-color: white;
+}
+#loginform{
+    text-align: center;
+}
+label{
+    display: inline-block;
+    width: 75px;
+    text-align: left;
+    padding-left: 0px;
+    padding: 10px;
+}
+
+#sign{
+    margin-left: 90px;
+}
+form{
+    padding-bottom: 20px;
+}
+#logbutton{
+    margin-top: 30px;
+    margin-left: 10px;
+    background-color: #39ff14;
+    border-radius: 10%;
+}

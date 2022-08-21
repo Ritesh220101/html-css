@@ -1,0 +1,73 @@
+body{
+    margin: 0px;
+    background-color: #edf5e1;
+}
+
+#name{
+    margin: 0px;
+    padding-top: 125px;
+    width: 100%;
+    background-color: #5cdb95;
+    /* height: 655px; */
+    height: 350px;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 70px;
+}
+
+#education{
+    background-color: #edf5e1;
+    height: 350px;
+}
+
+#certi{
+    background-color: #edf5e1;
+    height: 350px;
+}
+
+#projects{
+    background-color: #edf5e1;
+    height: 500px;
+}
+
+#skills{
+    background-color: #edf5e1;
+    width: 100%;
+    height: 500px;
+    display: inline-block;
+}
+
+#interests{
+    background-color: #edf5e1;
+    height: 350px;
+}
+
+#social{
+    background-color: #edf5e1;
+    height: 200px;
+}
+h2{
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-left: 20px;
+    font-size: 40px;
+}
+
+ul{
+    margin: 0px;
+}
+li{
+    font-size: 30px;
+    padding: 10px;
+}
+
+a{
+    
+    margin: 10px;
+    font-size: 30px;
+}
+
+#social a{
+    display: inline-block;
+}
